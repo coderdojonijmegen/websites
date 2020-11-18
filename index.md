@@ -2,7 +2,7 @@
 
 ## Websites bouwen
 
-Volg om te beginnen de [Webtinq instructies](https://coderdojo-nijmegen.nl/wp-content/uploads/2015/04/webtinq-instructie.pdf).
+Volg om te beginnen de [Webtinq instructies](https://webtinq.nl/download/instruction).
 
 
 ### HTML ###
